@@ -14,7 +14,7 @@
     "@material-ui/lab": "4.0.0-alpha.39",
     "@material-ui/pickers": "3.2.8",
     "@phuocng/react-pdf-viewer": "1.4.0",
-    "axios": "0.19.1",
+    "axios": "0.21.1",
     "bootstrap": "4.4.1",
     "daypilot-pro-react": "https://npm.daypilot.org/daypilot-pro-react/irupnqzppbcurax2rpmhnyccaq/2020.1.4294.tar.gz",
     "file-saver": "2.0.2",
