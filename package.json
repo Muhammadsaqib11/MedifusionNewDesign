@@ -22,7 +22,7 @@
     "jquery": "3.4.1",
     "jquery-nice-select": "1.1.0",
     "mdbreact": "4.20.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "moment-timezone": "0.5.27",
     "multiselect-react-dropdown": "1.4.7",
     "pdfjs-dist": "2.3.200",
