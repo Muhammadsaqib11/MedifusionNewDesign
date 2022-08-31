@@ -23,7 +23,7 @@
     "jquery-nice-select": "1.1.0",
     "mdbreact": "4.20.0",
     "moment": "2.24.0",
-    "moment-timezone": "0.5.27",
+    "moment-timezone": "0.5.35",
     "multiselect-react-dropdown": "1.4.7",
     "pdfjs-dist": "2.3.200",
     "rc-datepicker": "5.0.15",
